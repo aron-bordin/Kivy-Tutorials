@@ -15,7 +15,7 @@ I’ll show you how to use each mobile API, like compass, camera, sensors, sound
 
 I’ll show a sample app using each mobile feature, and after the features, powerful Python libs, as PyGame and OpenCV. When I finish all the tutorial, you will be able to develop almost any app with Python. 
 
-To be able to read all the tutorials, please follow my blog(http://bytedebugger.wordpress.com/_ or subscribe your email to get updates.
+To be able to read all the tutorials, please follow my blog(http://bytedebugger.wordpress.com/) or subscribe your email to get updates.
 
 II - Prerequisites
 ==================
@@ -27,7 +27,8 @@ How to build Python application for Android / iOS and Desktop: https://bytedebug
 [Tutorial] How to build Python for Android with Ubuntu and Buildozer: http://kivyspacegame.wordpress.com/2014/06/30/tutorial-how-to-build-python-for-android-with-ubuntu-and-buildozer/
  
 
-II – Index
+III – Index
+===========
 
 You will be able to get the links for all tutorials here, I’ll be updating when a new tutorial is published.
 1 - Using the accelerometer: https://bytedebugger.wordpress.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/
