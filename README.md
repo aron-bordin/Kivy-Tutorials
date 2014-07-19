@@ -31,4 +31,5 @@ III – Index
 ===========
 
 You will be able to get the links for all tutorials here, I’ll be updating when a new tutorial is published.
+
 1 - Using the accelerometer: https://bytedebugger.wordpress.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/
