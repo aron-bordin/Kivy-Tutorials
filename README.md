@@ -23,7 +23,9 @@ II - Prerequisites
 Before start, you can check this links to configure all the prerequisites:
 
 How to build Python application for Android / iOS and Desktop: https://bytedebugger.wordpress.com/2014/05/24/how-to-build-python-application-for-android-ios-and-desktop/
+
 [Tutorial] Android development with Python and Kivy – Introduction: https://bytedebugger.wordpress.com/2014/05/24/how-to-build-python-application-for-android-ios-and-desktop/
+
 [Tutorial] How to build Python for Android with Ubuntu and Buildozer: http://kivyspacegame.wordpress.com/2014/06/30/tutorial-how-to-build-python-for-android-with-ubuntu-and-buildozer/
  
 
