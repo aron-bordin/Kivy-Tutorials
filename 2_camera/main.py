@@ -1,6 +1,6 @@
 '''
 	Second tutorial of Mobile development with Python. This code is compatible with Android.
-	Check the full tutorial: #####
+	Check the full tutorial: http://bytedebugger.wordpress.com/2014/07/19/python-for-android-tutorial-2-taking-a-picture/
 	Check Mobile Development with Python Course at: http://bytedebugger.wordpress.com/
 	
 	Created by Aron Bordin <aron.bordin@gmail.com>
