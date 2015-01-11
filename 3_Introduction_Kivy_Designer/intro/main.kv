@@ -1,0 +1,15 @@
+<RootWidget>:
+    TabbedPanel:
+        id: tab_panel
+        do_default_tab: False
+        
+        TabbedPanelItem:
+            id: tab_1
+            text: 'Tab 1'
+            BoxLayout:
+                Button:
+                    on_press:   root.btn_new_on_press()
+                    text: 'New Tab'
+                Button:
+                    on_press:  root.btn_close_on_press()
+                	text: 'Close tab'
