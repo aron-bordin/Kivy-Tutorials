@@ -1,0 +1,86 @@
+<MenuScreen>:
+    Image:
+        id: background
+        source: "res/background.png"
+        allow_stretch: True #image in fullscreen
+        keep_ratio: False #image in fullscreen
+    Image:
+        id: title
+        source: "res/title.png"
+        pos_hint: {'top': 1.3}
+
+    Label:
+        id: label_best
+        text: 'Best score: 1'
+        font_size: '27sp'
+        pos_hint: {'x': 0, 'y':0.15}
+
+    ImageButton:
+        id: new_game
+        source: "res/new_game.png"
+        on_press: root.new_game()
+        size_hint: 0.6, 0.15
+        pos_hint: {'x': .2, 'y': .4}
+        allow_stretch: True #image full the button
+        keep_ratio: False #image full the button
+
+    ImageButton:
+        id: share
+        source: "res/share.png"
+        on_press: root.share()
+        size_hint: 0.6, 0.15
+        pos_hint: {'x': .2, 'y': .25}
+        allow_stretch: True #image full the button
+        keep_ratio: False #image full the button
+
+    ImageButton:
+        id: exit
+        source: "res/exit.png"
+        on_press: root.exit()
+        size_hint: 0.6, 0.15
+        pos_hint: {'x': .2, 'y': .1}
+        allow_stretch: True #image full the button
+        keep_ratio: False #image full the button
+
+<GameScreen>:
+    Image:
+        source: "res/background.png"
+        allow_stretch: True #image in fullscreen
+        keep_ratio: False #image in fullscreen
+
+    Label:
+        id: label_level
+        font_size: '25sp'
+        pos_hint: {'x': 0, 'y':0.45}
+    Label:
+        id: label_last_block
+        text: ''
+        font_size: '20sp'
+        pos_hint: {'x': 0, 'y':0.35}
+    Label:
+        id: label_best
+        font_size: '20sp'
+        pos_hint: {'x': 0, 'y':-0.4}
+
+    ImageButton:
+        id: back_menu
+        pos_hint: {'x': .75, 'y': .9}
+        source: "res/menu.png"
+        size_hint: .23, .08
+        allow_stretch: True #image in fullscreen
+        keep_ratio: False #image in fullscreen
+        on_press: root.go_menu()
+
+    ImageButton:
+        id: restart
+        source: "res/restart.png"
+        size_hint: .23, .08
+        allow_stretch: True #image in fullscreen
+        keep_ratio: False #image in fullscreen
+        on_press: root.restart()
+    GridLayout:
+        id: game_grid
+        cols: 2
+        rows: 2
+        size_hint: 0.9, root.width*0.9/root.height
+        pos_hint: {'x': 0.05, 'y': (1 - root.width*0.9/root.height) / 2}
