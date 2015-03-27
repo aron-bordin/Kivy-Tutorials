@@ -34,13 +34,17 @@ III – Index
 
 You will be able to get the links for all tutorials here, I’ll be updating when a new tutorial is published.
 
-1 - Using the accelerometer: https://bytedebugger.wordpress.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/
+1 - [Using the accelerometer](https://bytedebugger.wordpress.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
 
-2 - Taking a picture: http://bytedebugger.wordpress.com/2014/07/19/python-for-android-tutorial-2-taking-a-picture/
+2 - [Taking a picture](http://bytedebugger.wordpress.com/2014/07/19/python-for-android-tutorial-2-taking-a-picture/)
 
-3 - User interface with Kivy Designer: https://bytedebugger.wordpress.com/2015/01/11/python-for-android-tutorial-3-user-interface-with-kivy-designer/
+3 - [User interface with Kivy Designer](https://bytedebugger.wordpress.com/2015/01/11/python-for-android-tutorial-3-user-interface-with-kivy-designer/)
 
-4 - How to use Android Studio to find Python and Kivy errors:  https://bytedebugger.wordpress.com/2015/01/17/python-for-android-tutorial-4-debugging-your-code-with-android-studio/
+4 - [How to use Android Studio to find Python and Kivy errors](https://bytedebugger.wordpress.com/2015/01/17/python-for-android-tutorial-4-debugging-your-code-with-android-studio/)
 
-5 - Cross platform game development with Python - Desktop, iOS and Android: https://bytedebugger.wordpress.com/2015/01/24/python-for-android-tutorial-5-our-first-mobile-game-with-kivy/
+5 - [Cross platform game development with Python - Desktop, iOS and Android](https://bytedebugger.wordpress.com/2015/01/24/python-for-android-tutorial-5-our-first-mobile-game-with-kivy/)
+
+6 - [Saving and reading user data](https://bytedebugger.wordpress.com/2015/01/30/python-for-android-tutorial-6-saving-and-reading-user-data/)
+
+7 - [PyJNIus – Using Android native classes to start an Intent](https://bytedebugger.wordpress.com/2015/03/27/python-for-android-tutorial-7-share-your-app-with-android-intent/)
 
