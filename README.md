@@ -39,3 +39,8 @@ You will be able to get the links for all tutorials here, I’ll be updating whe
 2 - Taking a picture: http://bytedebugger.wordpress.com/2014/07/19/python-for-android-tutorial-2-taking-a-picture/
 
 3 - User interface with Kivy Designer: https://bytedebugger.wordpress.com/2015/01/11/python-for-android-tutorial-3-user-interface-with-kivy-designer/
+
+4 - How to use Android Studio to find Python and Kivy errors:  https://bytedebugger.wordpress.com/2015/01/17/python-for-android-tutorial-4-debugging-your-code-with-android-studio/
+
+5 - Cross platform game development with Python - Desktop, iOS and Android: https://bytedebugger.wordpress.com/2015/01/24/python-for-android-tutorial-5-our-first-mobile-game-with-kivy/
+
