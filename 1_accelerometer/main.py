@@ -45,4 +45,5 @@ class Accelerometer(App): #our app
 		ui = UI()# create the UI
 		return ui #show it
 
-Accelerometer().run() #start our app
+if __name__ == '__main__':
+	Accelerometer().run() #start our app
